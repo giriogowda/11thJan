@@ -1,4 +1,1 @@
-
-love you java
-======
-love you python
+pyhton can do wonders
